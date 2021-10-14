@@ -22,18 +22,3 @@
   
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/44234388/137406055-a655eb7a-db0f-46f5-b5be-6c9895327c40.gif">
 </div>
-
-- uses: Edufgs
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # path of the generated gif file
-    # If left empty, the gif file will not be generated
-    gif_out_path: dist/github-snake.gif
-
-    # path of the generated svg file
-    # If left empty, the svg file will not be generated
-    svg_out_path: dist/github-snake.svg
-
