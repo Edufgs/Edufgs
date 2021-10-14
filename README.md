@@ -3,7 +3,7 @@
 - 🔭 Atualmente não estou trabalhando
 - 🌱 Estou fazendo o curso de Engenharia da Computação e atualmente aprendendo JavaScript
 
-![giphy](https://user-images.githubusercontent.com/44234388/137402400-da3c398e-c621-4953-803d-270b9c444612.gif)
+![giphy (1)](https://user-images.githubusercontent.com/44234388/137402614-7c8585a7-21c8-406d-99cf-a65ec99bf35e.gif)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edufgs&show_icons=true&theme=tokyonight&include_all_commits=true)
 
