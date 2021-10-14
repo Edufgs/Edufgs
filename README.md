@@ -14,8 +14,8 @@
   <a href="https://www.youtube.com/channel/UCqQPtmiVCX4bDb6HFwHibyw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/edu_gon_silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "edu.fgs14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/id/Edufgs" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://steamcommunity.com/id/Edufgs" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  <div>
+    ![giphy](https://user-images.githubusercontent.com/44234388/137405812-7eb9ceb9-1b13-4b5b-9e4f-e4455fc59db7.gif)
+  </div> 
 </div>
