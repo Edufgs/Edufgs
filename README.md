@@ -16,5 +16,5 @@
   <a href = "edu.fgs14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/Edufgs" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
-   ![giphy](https://user-images.githubusercontent.com/44234388/137405812-7eb9ceb9-1b13-4b5b-9e4f-e4455fc59db7.gif) 
+   https://user-images.githubusercontent.com/44234388/137405812-7eb9ceb9-1b13-4b5b-9e4f-e4455fc59db7.gif
 </div>
