@@ -3,7 +3,7 @@
 - 🔭 Atualmente não estou trabalhando
 - 🌱 Estou fazendo o curso de Engenharia da Computação e atualmente aprendendo JavaScript
 
-<iframe src="https://giphy.com/embed/FPbnShq1h1IS5FQyPD" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacktiv8-code-coding-bootcamp-FPbnShq1h1IS5FQyPD">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/FPbnShq1h1IS5FQyPD" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hacktiv8-code-coding-bootcamp-FPbnShq1h1IS5FQyPD">via GIPHY</a></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edufgs&show_icons=true&theme=tokyonight&include_all_commits=true)
 
