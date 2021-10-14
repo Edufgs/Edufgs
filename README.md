@@ -25,5 +25,5 @@
 
 <hr>
 
-<img align="right" alt="Rafa-pic" style="border-radius:50px;" src="https://user-images.githubusercontent.com/44234388/137408416-6635fb61-a447-4b4b-be73-46af4695da9c.gif">
+<img align="center" alt="Rafa-pic" style="border-radius:50px;" src="https://user-images.githubusercontent.com/44234388/137408416-6635fb61-a447-4b4b-be73-46af4695da9c.gif">
 </div>
