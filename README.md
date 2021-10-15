@@ -22,5 +22,4 @@
   
   <br>
   
-  ![Snake animation](.github/workflows/blank.yml)
-  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
