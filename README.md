@@ -22,4 +22,4 @@
   
 <br>
   
-![Snake animation](https://github.com/Edufgs/Edufg/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Edufgs/Edufgs/blob/output/github-contribution-grid-snake.svg)
