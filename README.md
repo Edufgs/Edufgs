@@ -20,7 +20,7 @@
   <a href = "mailto:edu.fgs14@gmail.com?subject=Hello%20again"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_red"></a>
   <a href="https://steamcommunity.com/id/Edufgs" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/profile.php?id=100003276924397" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/eduardo-gon%C3%A7alves-8b7953223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/eduardo-goncalves-silva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 <br>
   
