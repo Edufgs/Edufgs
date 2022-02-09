@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 Atualmente não estou trabalhando
 - 🌱 Cursando bacharel em Engenharia da Computação e atualmente aprendendo JavaScript
 
 <hr>
