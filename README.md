@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Cursando bacharel em Engenharia da Computação e atualmente aprendendo JavaScript
+- 🌱 Cursando bacharel em Engenharia da Computação onde busco ganhar conhecimento e experiência na área da tecnologia. Atualmente estou com foco na área da programação
 
 <hr>
 
