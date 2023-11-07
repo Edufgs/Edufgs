@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Cursando bacharel em Engenharia da Computação onde busco ganhar conhecimento e experiência na área da tecnologia.
+- 🌱 Formado em bacharel em Engenharia da Computação. Busco ganhar conhecimento e experiência na área da tecnologia.
 
 <hr>
 
